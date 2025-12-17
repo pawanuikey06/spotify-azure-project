@@ -1,0 +1,9 @@
+{
+	"name": "spotifypawanADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "781ed825-f4cb-4522-ae0a-bb09dbfc616c",
+		"tenantId": "01ac70c8-d0e8-43da-a36d-3aca7beb1a9d"
+	}
+}
